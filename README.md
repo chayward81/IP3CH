@@ -1,10 +1,10 @@
-# _Ping Pong!!!_
+# Ping Pong!!!
 
-#### _This app takes number input from the user and returns either the numbers
+#### This app takes number input from the user and returns either the numbers
 or a ping, or a pong based on specific divisibility of the numbers input.
-06/22/2016_
+06/22/2016
 
-#### By _Charlie Hayward_
+#### By Charlie Hayward
 
 ## Description
 
