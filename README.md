@@ -8,15 +8,15 @@ or a ping, or a pong based on specific divisibility of the numbers input.
 
 ## Description
 
-_This program will take number input from the user and will return a range of either
+This program will take number input from the user and will return a range of either
 numbers up to the number input, or the strings "ping" or "pong" or "ping pong", based on the
-divisibility of the numbers input._
+divisibility of the numbers input.
 
 ## Setup/Installation Requirements
 
-* _Download the repository_
-* _Open index.html in your browser_
-* _Enter some numbers_
+* Download the repository_
+* Open index.html in your browser_
+* Enter some numbers
 
 ## Behavior Specifications
 
