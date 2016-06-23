@@ -1,8 +1,6 @@
 # Ping Pong!!!
 
-#### This app takes number input from the user and returns either the numbers
-or a ping, or a pong based on specific divisibility of the numbers input.
-06/22/2016
+#### This app takes number input from the user and returns either the numbersor a ping, or a pong based on specific divisibility of the numbers input. 06/22/2016
 
 #### By Charlie Hayward
 
