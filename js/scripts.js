@@ -1,15 +1,17 @@
-var outputResult = function(numInput) {
-  var results = [];
+var buildArray = function(numInput) {
+  var array = [];
   for (var i = 1; i <= numInput; i+=1) {
-    return i;
+	   array.push(i);
   }
-};
+  return array;
+}
 
 $(document).ready(function() {
   $("form#numbers").submit(function(event) {
     var numInput = parseInt($("input#numInput").val());
-    var result = outputResult(numInput)
-    $("#output").text(result);
+    var list = buildArray(numInput);
+    $("#output").text(list);
     event.preventDefault();
   });
+
 });
