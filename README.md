@@ -12,7 +12,7 @@ divisibility of the numbers input.
 
 ## Setup/Installation Requirements
 
-* Download the repository
+* Download the repository https://chayward81.github.io/IP3CH/
 * Open index.html in your browser
 * Enter some numbers
 
