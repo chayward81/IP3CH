@@ -33,18 +33,16 @@ divisibility of the numbers input.
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+In terms of this program passing the program specs listed above, there are no bugs in this program.
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+For questions about this program, please email me at c.hayward.mail@gmail.com
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+The elements of this program were implemented using HTML5. The styling of the page uses bootstrap and a custom CSS stylesheet. The front end is implemented using jQuery and the back end is strictly javaScript.
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-
-Copyright (c) 2015 **_{List of contributors or company name}_**
+Copyright (c) 2016 **Charlie Hayward**
