@@ -23,11 +23,12 @@ $(document).ready(function() {
   $("form#numbers").submit(function(event) {
     var numInput = parseInt($("input#numInput").val());
     var list = buildArray(numInput);
-  
+
     var newHTML = $.map(list, function(value) {
       return('<li>' + value + '</li>');
     });
     $("#output").html(newHTML.join(""));
+
     event.preventDefault();
   });
 
